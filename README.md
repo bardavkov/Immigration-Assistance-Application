@@ -11,6 +11,7 @@ What is done:
 - Сreated a page that displays some data from the database
 - Сreated a page that allows you to add some data to the database
 - Added the About page to the project
+- Implemented user authorization
 - Recorded the current status of completed tasks in ReadMe
 - Deployed the project on Azure
 
