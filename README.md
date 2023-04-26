@@ -17,7 +17,6 @@ What is done ✔️:
 - Added Application Insights
 - Moved connection string to User Secrets
 - Created an icon for web app 
-- Uploaded the project to github
 - Updated the project on Azure
 
 What should be done 📑:
