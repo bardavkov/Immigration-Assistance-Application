@@ -18,6 +18,8 @@ What is done ✔️:
 - Moved connection string to User Secrets
 - Created an icon for web app 
 - Updated the project on Azure
+- Created a new web service, database. I connected the database to the project. Created migrations, updated the database. Connected the project to Azure, deployed the project. (due to the end of subscription credits..) 
+- Worked on the frontend, added a picture to the about page, a blue background to the header, added an animation of the page title increasing when the mouse is hovered over, and added a greeting upon successful authorization
 
 What should be done 📑:
 -next tasks
